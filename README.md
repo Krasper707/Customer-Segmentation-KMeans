@@ -13,6 +13,8 @@ The dataset contains customer information with features like:
 - Price
 - CustomerID
 
+[DataSet Link](https://archive.ics.uci.edu/dataset/502/online+retail+ii)
+
 
 ## 🛠️ Technologies Used
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn)
@@ -35,6 +37,7 @@ Exploratory Data Analysis (EDA) 🔍
 - Insights from the segmented data
 .
 
+View the Jupyter Notebook file using the following link: [Jupyter Notebook](https://nbviewer.org/github/Krasper707/Customer-Segmentation-KMeans/blob/main/KMeans_Customer_Segmentation.ipynb)
 ## 📌 Results & Insights
 Customers were successfully segmented into six clusters, each represented by a different color:
 
